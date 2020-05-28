@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">4f65546807c11010a1acf7108c1ed0a4</application>
+        <assessment display_value="Groups">ee910ea7bf2201007a6d257b3f07398c</assessment>
+        <device_type/>
+        <filter/>
+        <hint>assessment</hint>
+        <homepage/>
+        <image/>
+        <link_type>ASSESSMENT</link_type>
+        <map_page/>
+        <mobile_title>assess</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-24 17:59:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f39db8a007451010a1acf7108c1ed050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assess</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_f39db8a007451010a1acf7108c1ed050</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-24 17:59:30</sys_updated_on>
+        <timeline_page/>
+        <title>assess</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f34c131edb8ffbc049eac59705961990</instance_id>
+        <instance_name>dev90887</instance_name>
+        <name>sys_app_module_f39db8a007451010a1acf7108c1ed050</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">4f65546807c11010a1acf7108c1ed0a4</application><assessment display_value="Groups">ee910ea7bf2201007a6d257b3f07398c</assessment><device_type/><filter/><hint>assessment</hint><homepage/><image/><link_type>ASSESSMENT</link_type><map_page/><mobile_title>assess</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>400</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-24 17:59:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f39db8a007451010a1acf7108c1ed050</sys_id><sys_mod_count>0</sys_mod_count><sys_name>assess</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_f39db8a007451010a1acf7108c1ed050</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-24 17:59:30</sys_updated_on><timeline_page/><title>assess</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-4376909</payload_hash>
+        <record_name>assess</record_name>
+        <reverted_from/>
+        <source>262ccca007c11010a1acf7108c1ed037</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-24 17:59:30</sys_created_on>
+        <sys_id>55ddf4a007451010a1acf7108c1ed0ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17247d6fa190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-24 17:59:30</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9dddf4a0c2451010e146cc4c4fda51fe</update_guid>
+        <update_guid_history>9dddf4a0c2451010e146cc4c4fda51fe:-4376909</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="assess">f11efca007451010a1acf7108c1ed04c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-24 18:00:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>21bc111541024062bda03ed8b2e5b4f1</sys_id>
+        <sys_metadata>f39db8a007451010a1acf7108c1ed050</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assess</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_f39db8a007451010a1acf7108c1ed050</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f39db8a007451010a1acf7108c1ed050">55ddf4a007451010a1acf7108c1ed0ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-24 18:00:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
